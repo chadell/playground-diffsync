@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository is just a set of examples around `diffsync` in order to understand how it works and how you could use it.
+This repository is just a set of examples around [diffsync](https://github.com/networktocode/diffsync) in order to understand how it works and how you could use it.
 
 ## Install dependencies
 
